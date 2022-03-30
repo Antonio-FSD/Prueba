@@ -1,6 +1,6 @@
 - git log: muestra el numero de instantaneas.
 - git status: indica si hay trabajo sin guardar.
-- git commit: guarda trabajo.
+- git commit: guarda instantanea con etiqueta.
 - git branch: lista las ramas creadas.
 - git add: añade ficheros a git.
 - git checkout:
